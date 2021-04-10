@@ -9,7 +9,7 @@ var engine, world, ground;
 var ground;
 
 function setup() {
-  createCanvas(400,400);
+  createCanvas(400,500);
 
   //1: Create Engine; 2: Create World; 3: Create grounds
   engine = Engine.create();
